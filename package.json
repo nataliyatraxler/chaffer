@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite --open",
-    "build": "vite build --base=/xa8thaeD/",
+    "build": "vite build --base=/chaffer/",
     "preview": "vite preview"
   },
   "devDependencies": {
