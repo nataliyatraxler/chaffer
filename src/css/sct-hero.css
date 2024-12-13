@@ -52,7 +52,7 @@
         align-items: flex-start;
         gap: 5px;
         width: 335px;
-        color: #242424;
+        color: blue;
         font-size: 38px;
         line-height: 44px;
         font-weight: 400;
@@ -145,6 +145,7 @@
 
     .hero-content h2 {
         width: 639px;
+        font-family: 'CustomFontName', sans-serif;
         text-align: left;
         height: 148px;
         font-size: 74px;
